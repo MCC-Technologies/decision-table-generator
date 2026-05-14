@@ -77,6 +77,10 @@ flutter run
 5. **Highlight rows** — use the highlighting panel to color-code rows by a result column
 6. **Export** — copy or share the table as CSV
 
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit issues, suggest features, and open pull requests. By participating you are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## License
 
 MIT
